@@ -7,7 +7,7 @@ The Democratic party of each state and territory that holds a primary or caucus 
 
 This year, the Democratic National Convention will take place between July 13 and 16 in Milwaukee, Wis.
 
-I've gone about collecting these plans and compiling the delegate counts here.
+I've gone about collecting these plans and compiling the delegate counts in this repo.
 
 While your data sources for election results throughout the cycle will have a lot of this topline data, the plans themselves carry additional details. Certainly, the plans outline the number of delegates at the district level, the unpledged or "superdelegates" and party leaders who pledge to back a candidate. The plans also outline efforts by the party to ensure that people of all races, ethnicities, genders, sexual orientation and backgrounds are represented equitably.
 
