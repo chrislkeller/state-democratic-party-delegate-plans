@@ -1,4 +1,4 @@
-| state                | date_of_primary | plan_approved    | date_approved | total_delegates |
+| state_or_territory   | date_of_primary | plan_approved    | date_approved | total_delegates |
 |----------------------|-----------------|------------------|---------------|-----------------|
 | Alabama              | 2020-03-03      |                  |               |                 |
 | Alaska               | 2020-04-04      |                  |               |                 |
