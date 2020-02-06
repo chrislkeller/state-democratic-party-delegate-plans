@@ -71,4 +71,4 @@ While your data sources for election results throughout the cycle will have a lo
 | [Washington](delegate-plans/_final-plans/53-washington.pdf)           | 2020-03-10      | true             | 2019-11-01    | 107             |
 | West Virginia        | 2020-05-12      |                  |               |                 |
 | [Wisconsin](delegate-plans/_final-plans/55-wisconsin.pdf)            | 2020-04-07      | true             | 2020-01-21    | 90              |
-| Wyoming              | 2020-04-04      | true |               | 12              |
+| [Wyoming](delegate-plans/_final-plans/56-wyoming.pdf)              | 2020-04-04      | true |               | 12              |
