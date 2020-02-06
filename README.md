@@ -70,5 +70,5 @@ While your data sources for election results throughout the cycle will have a lo
 | Virginia             | 2020-03-03      |                  |               |                 |
 | [Washington](delegate-plans/53-washington-2020-delegate-selection-plan.pdf)           | 2020-03-10      | true             | 2019-11-01    | 107             |
 | West Virginia        | 2020-05-12      |                  |               |                 |
-| [Wisconsin](delegate-plans/55-wisconsin-2020-delegate-selection-plan.pdf)            | 2020-04-07      | true             |               | 90              |
-| Wyoming              | 2020-04-04      | not yet approved |               |                 |
+| [Wisconsin](delegate-plans/55-wisconsin-2020-delegate-selection-plan.pdf)            | 2020-04-07      | true             | 2020-01-21    | 90              |
+| Wyoming              | 2020-04-04      | true |               | 12              |
